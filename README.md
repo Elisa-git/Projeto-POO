@@ -7,3 +7,11 @@
 *Elisa Mesquita
 *Gabriel Melo
 *Victor Macedo
+
+
+
+## Consultas
+* Consultar dados do aluno;
+  * por nível;
+  * por aula;
+  * por aula refeita;
