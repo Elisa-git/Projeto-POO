@@ -10,5 +10,7 @@
 
 ### Diagrama de classes:
 
+![image](https://user-images.githubusercontent.com/62437484/137648569-11057415-26e1-446e-8849-f75383167c24.png)
+
 ### Vídeo de apresentação do sistema:
 
