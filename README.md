@@ -8,3 +8,7 @@
 * Gabriel Melo
 * Victor Macedo
 
+### Diagrama de classes:
+
+### Vídeo de apresentação do sistema:
+
