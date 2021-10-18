@@ -14,3 +14,4 @@
 
 ### Vídeo de apresentação do sistema:
 
+Obs.: O vídeo se encontra anexado na parte de arquivos.
